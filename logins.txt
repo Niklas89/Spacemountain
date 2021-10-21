@@ -1,0 +1,13 @@
+spacemountain
+
+Hôte FTP	iimprojetweb.fr
+IP FTP	31.170.165.237
+Port FTP	21
+Nom d'utilisateur FTP	u329065385
+Mot de passe FTP	
+chwingnom1
+
+host: mysql.hostinger.fr
+bdd: u329065385_sm
+user: u329065385_fg 
+pass: chwingnom1
